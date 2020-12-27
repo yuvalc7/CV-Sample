@@ -1,0 +1,18 @@
+body {
+  background-color: #dceeea;
+}
+
+h1 {
+  color: rgb(37, 48, 82);
+}
+
+a {
+  color: blueviolet;
+}
+
+hr {
+  border-color: gray;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+}
